@@ -1,0 +1,47 @@
+.options-box{
+    border-bottom: solid white 1px;
+    max-width: 500px;
+    margin: auto;
+}
+
+.options-box {
+
+}
+
+button.btn--danger {
+    background-color: red;
+    font-size: 1.3rem;
+    margin: 1em;
+    color: black;
+    font-weight: 500;
+}
+
+.add-question-cont{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.add-question-cont input{
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5em;
+}
+
+.add-question-cont button{
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5em;
+    font-weight: 400;
+}
+
+.question-box{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 800px;
+    margin: auto;
+}

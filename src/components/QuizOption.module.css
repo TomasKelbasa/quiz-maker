@@ -1,0 +1,26 @@
+.option{
+    margin: 0.5em 0;
+}
+
+.option .remove-btn{
+    font-size: 0.8rem;
+    margin: 0em 1em;
+}
+
+.option .switch-btn{
+    font-size: 0.8rem;
+    margin: 0em 1em;
+}
+
+.option__text{
+
+}
+
+.option__text.correct{
+    font-weight: 500;
+    color: green;
+}
+
+.option__text.incorrect{
+    font-weight: 300;
+}
